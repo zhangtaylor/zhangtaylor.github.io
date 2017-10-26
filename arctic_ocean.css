@@ -1,0 +1,81 @@
+body
+{
+	background-color: navy;
+}
+.center
+{
+	text-align: center;
+	font-family: Comic Sans MS;
+	color: orange;
+}
+#h02
+{
+	font-family: Verdana;
+	color: lime;
+}
+#h03
+{
+	font-family: Verdana;
+	color: red;
+}
+#h003 
+{
+	font-family: Verdana;
+	color: red;
+}
+p
+{
+	font-family: Comic Sans MS;
+	color: white;
+	text-indent: 50px;
+}
+#arctic01
+{
+	float: right;
+	width: 25%;
+	height: 300px;
+	padding-right: 10px;
+	border-right: 1px solid navy;
+}
+#polarbear01
+{
+	float: right;
+	width: 23%;
+	height: 245px;
+	padding-right: 10px;
+	border-right: 1px solid navy;
+}
+#mammoth01
+{
+	float: right;
+	width: 20%;
+	height: 200px;
+	padding-right: 10px;
+	border-right: 1px solid navy; /* The color is navy so you can't see the border.*/
+}	
+#titanic01
+{
+	float: right;
+	width: 25%;
+	height: 200px;
+	padding-right: 10px;
+	border-right: 1px solid navy;
+}
+#ul01
+{
+	font-family: Comic Sans MS;
+	color: white;
+}
+#water01
+{
+	position:absolute;
+    left:0px;
+    top:0px;
+    z-index:-1;
+	width: 100%; 
+	height: 100px;
+}
+.a01
+{
+	color: white;
+}

@@ -1,0 +1,79 @@
+body
+{
+	background-color: navy; 
+}
+#h01
+{
+	text-align: center;
+	font-family: Comic Sans MS;
+	color: orange;
+}
+#h02
+{
+	font-family: Verdana;
+	color: lime;
+}
+.h03
+{
+	color: red;
+	font-family: Verdana;
+}
+p
+{
+	font-family: Comic Sans MS;
+	color: white;
+	text-indent: 50px;
+}
+#atlantic01
+{
+	width: 25%;
+	height: 250px;
+	float: right;
+	padding-right: 50px;
+	border:1px solid navy;
+}
+#fish01
+{
+	width: 16%;
+	height: 150px;
+	float: right;
+	padding: 10px;
+	border:1px solid navy;
+}
+#turtle01
+{
+	width: 23%;
+	height: 150px;
+	float: right;
+	padding: 10px;
+	border:1px solid navy;
+}
+#frigatebird01
+{
+	width: 17%;
+	height: 150px;
+	float: right;
+	padding: 10px;
+	border:1px solid navy;
+}
+#elephantseal01
+{
+	width: 23%;
+	height: 200px;
+	float: right;
+	padding: 10px;
+	border:1px solid navy;
+}
+#water01
+{
+	position:absolute;
+    left:0px;
+    top:0px;
+    z-index:-1;
+	width: 100%; 
+	height: 100px;
+}
+.a01
+{
+	color: white;
+}
